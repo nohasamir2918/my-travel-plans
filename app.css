@@ -23,7 +23,7 @@ body {
 
 .destination-container {
     display: flex;
-    flex-flow: wrap;
+    flex-flow: row wrap;
     justify-content: center;
 }
 
